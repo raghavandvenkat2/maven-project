@@ -32,7 +32,7 @@
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>${mule.version}</muleVersion>
 					<username>${uid}</username>
-					<password>${password}</password>
+					<password>${pwd}</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
 					<environment>Sandbox</environment>
