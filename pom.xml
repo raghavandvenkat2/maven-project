@@ -148,6 +148,7 @@
             <groupId>org.apache.derby</groupId>
             <artifactId>derby</artifactId>
             <version>${derby.version}</version>
+           
         </dependency>
     <dependency>
             <groupId>org.mule.transports</groupId>
